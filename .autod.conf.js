@@ -15,7 +15,6 @@ module.exports = {
   devdep: [
     'egg-ci',
     'egg-bin',
-    'egg-mock',
     'autod',
     'autod-egg',
     'eslint',
